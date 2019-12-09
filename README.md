@@ -20,13 +20,13 @@ Software: Python 3.6.1, Visual Studio Code, 1.38.1
 
 ## Project Summary 
 The analysis of the election show that:
-1) The 3 counties were polled are Jefferson, Denver, Araphoe
+1. The 3 counties were polled are Jefferson, Denver, Araphoe
 
-2)There were 369711 votes cast in the election
+2. There were 369711 votes cast in the election
 
-3)The candidate were: Charles Casper Stockham, Diana DeGette, Raymon Anthony Doane
+3. The candidate were: Charles Casper Stockham, Diana DeGette, Raymon Anthony Doane
 
-4) The candidate results were
+4. The candidate results were
   
   a) Candidate Charles Casper Stockham received 23% of the vote and 85,213 number of votes
   
