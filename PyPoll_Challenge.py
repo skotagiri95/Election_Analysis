@@ -64,11 +64,11 @@ with open(file_to_load) as election_data_fhand:
 #write down and save the results on result text file
 with open(file_to_save, 'w') as outputFile:
     election_results=(
-    f"\nElection Results\n"
-    f"-------------------------\n"
-    f"Total votes: {total_votes:,}\n"
-    f"--------------------------\n"
-    f"\nCounty Votes:\n")
+        f"\nElection Results\n"
+        f"-------------------------\n"
+        f"Total votes: {total_votes:,}\n"
+        f"--------------------------\n"
+        f"\nCounty Votes:\n")
     print(election_results, end='')
     #save to text file 
     outputFile.write(election_results)
